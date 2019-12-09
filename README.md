@@ -6,4 +6,4 @@
 ## Aplicação criada para exemplificar o Ciclo de uma PipeLine DevOps
 
 
-Para maiores informações acesse o [Site da 4Linux](https://www.4linux.com.br/cursos/devops)
+Aplicação para treinar as ferramentas e a Pipeline DevOps proposta pelo cursos DevOps Essential Para maiores informações sobre as propostas do curso acesse o [Site da 4Linux](https://www.4linux.com.br/cursos/devops)
